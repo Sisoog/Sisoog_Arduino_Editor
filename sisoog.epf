@@ -1,0 +1,109 @@
+#Sat May 27 10:36:49 IRDT 2017
+\!/=
+/configuration/io.sloeber.arduino/Arduino\ Manager\ board\ Urls=http\://downloads.arduino.cc/packages/package_index.json\r\nhttp\://arduino.esp8266.com/stable/package_esp8266com_index.json
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=workspace\nD\:\\workspace\nC\:\\work
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=false
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=false
+/instance/de.innot.avreclipse.core/avrdudepropertypage/previewexpanded=false
+/instance/de.innot.avreclipse.core/avrdudepropertypage/weight_preview_collapsed=50
+/instance/de.innot.avreclipse.core/avrdudepropertypage/weight_preview_expanded=20
+/instance/de.innot.avreclipse.core/avrdudepropertypage/weight_top_collapsed=950
+/instance/de.innot.avreclipse.core/avrdudepropertypage/weight_top_expanded=80
+/instance/de.innot.avreclipse.core/avrpaths//systempath/AVRDUDE=avr8-gnu-toolchain\\AVRDude
+/instance/de.innot.avreclipse.core/avrpaths//systempath/AVRGCC=avr8-gnu-toolchain\\bin
+/instance/de.innot.avreclipse.core/avrpaths//systempath/AVRINCLUDE=avr8-gnu-toolchain\\avr\\include
+/instance/de.innot.avreclipse.core/avrpaths//systempath/MAKE=avr8-gnu-toolchain\\utils\\bin
+/instance/de.innot.avreclipse.core/avrpaths//systempath/PDFPATH=
+/instance/de.innot.avreclipse.core/avrpaths/AVRDUDE=avr8-gnu-toolchain\\AVRDude
+/instance/de.innot.avreclipse.core/avrpaths/AVRGCC=avr8-gnu-toolchain\\bin
+/instance/de.innot.avreclipse.core/avrpaths/AVRINCLUDE=avr8-gnu-toolchain\\avr\\include
+/instance/de.innot.avreclipse.core/avrpaths/MAKE=avr8-gnu-toolchain\\utils\\bin
+/instance/de.innot.avreclipse.core/avrpaths/NoScanAtStartup=true
+/instance/de.innot.avreclipse.core/avrpaths/PDFPATH=
+/instance/io.sloeber.arduino/714=5
+/instance/io.sloeber.arduino/Automatically\ import\ libraries=true
+/instance/io.sloeber.arduino/JANTJE.TEMPLATE_USE_DEFAULT=defaultIno
+/instance/io.sloeber.arduino/Last\ Used\ Upload\ port=
+/instance/io.sloeber.arduino/Last\ used\ Board=nano
+/instance/io.sloeber.arduino/Last\ used\ Boards\ file=D\:/sisoog/Sisoog Editor/Sisoog_ide/arduinoPlugin/packages/arduino/hardware/avr/1.6.18/boards.txt
+/instance/io.sloeber.arduino/Last\ used\ Examples=
+/instance/io.sloeber.arduino/Private\ Library\ Path=C\:/Users/Mazarei/Arduino/libraries
+/instance/io.sloeber.arduino/Private\ hardware\ Path=C\:/Users/Mazarei/Arduino/hardware
+/instance/io.sloeber.arduino/last\ Used\ upload\ Protocol=Default
+/instance/io.sloeber.arduino/last\ used\ Board\ custom\ option\ selections=CPU\=ATMEGA328
+/instance/io.sloeber.core.ui/Clean\ Serial\ Monitor\ after\ upload=false
+/instance/io.sloeber.core.ui/FmStatus=2
+/instance/io.sloeber.core.ui/Open\ serial\ connections\ with\ the\ monitor=true
+/instance/org.eclipse.cdt.core.prj-Work/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<sourceLookupDirector>\r\n<sourceContainers duplicates\="false">\r\n<container memento\="AbsolutePath" typeId\="org.eclipse.cdt.debug.core.containerType.absolutePath"/>\r\n<container memento\="programRelativePath" typeId\="org.eclipse.cdt.debug.core.containerType.programRelativePath"/>\r\n<container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#13;&\#10;&lt;project referencedProjects\=&quot;true&quot;/&gt;&\#13;&\#10;" typeId\="org.eclipse.cdt.debug.core.containerType.project"/>\r\n</sourceContainers>\r\n</sourceLookupDirector>\r\n
+/instance/org.eclipse.cdt.dsf.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Fuck.null.1402572478/io.sloeber.core.toolChain.release.422415887=io.sloeber.tool.sketch.compiler.cpp.220542599\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.sketch.compiler.s.928901255\=rebuildState\\\=false\\r\\n\r\nio.sloeber.core.toolChain.release.2128654184\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.compiler.c.865073053\=rebuildState\\\=false\\r\\n\r\nio.sloeber.core.toolChain.release.422415887\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\nio.sloeber.tool.objcopy.eep.1857097261\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.ar.592393997\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.combine.836336727\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.size.485946495\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Gholi.null.361622300/io.sloeber.core.toolChain.release.1756525177=io.sloeber.core.toolChain.release.637630078\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.objcopy.eep.1070665672\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.sketch.compiler.cpp.1682476266\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.size.1287282938\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.combine.1852388748\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.ar.1570699705\=rebuildState\\\=false\\r\\n\r\nio.sloeber.core.toolChain.release.1756525177\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\nio.sloeber.tool.sketch.compiler.s.1543535185\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.compiler.c.941809805\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Start.de.innot.avreclipse.project.winavr.elf_2.1.0.1179441311/de.innot.avreclipse.configuration.app.debug.1672705116=de.innot.avreclipse.tool.objdump.winavr.app.debug.1652394964\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.configuration.app.debug.1672705116\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.compiler.winavr.app.debug.1242934404\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objcopy.flash.winavr.app.debug.520312231\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.assembler.winavr.app.debug.858380038\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.linker.winavr.app.debug.239587578\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.size.winavr.app.debug.592998953\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objcopy.eeprom.winavr.app.debug.880319677\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.cppcompiler.app.debug.1731630238\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.avrdude.app.debug.685442674\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.cpplinker.app.debug.1983751414\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.archiver.winavr.base.1512589605\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.toolchain.winavr.app.debug.1740533129\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Start.de.innot.avreclipse.project.winavr.elf_2.1.0.1179441311/de.innot.avreclipse.configuration.app.release.958739153=de.innot.avreclipse.tool.cppcompiler.app.release.167907719\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.objcopy.flash.winavr.app.release.1949404795\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.size.winavr.app.release.505215309\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.compiler.winavr.app.release.12232291\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.objdump.winavr.app.release.1399066297\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.archiver.winavr.base.1269753514\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.cpplinker.app.release.654486115\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.objcopy.eeprom.winavr.app.release.1275871881\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.assembler.winavr.app.release.64290321\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.toolchain.winavr.app.release.124009821\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.linker.winavr.app.release.335764272\=rebuildState\\\=true\\r\\n\r\nde.innot.avreclipse.tool.avrdude.app.release.1274404239\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Start.null.1158736130/io.sloeber.core.toolChain.release.649312616=io.sloeber.tool.objcopy.eep.835998604\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.size.1411522419\=rebuildState\\\=false\\r\\n\r\nio.sloeber.core.toolChain.release.649312616\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\nio.sloeber.tool.compiler.c.1541523105\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.sketch.compiler.cpp.2086747300\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.combine.1485459677\=rebuildState\\\=false\\r\\n\r\nio.sloeber.core.toolChain.release.676756675\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.sketch.compiler.s.1470410613\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.ar.325551161\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Work.de.innot.avreclipse.project.winavr.elf_2.1.0.790967318/de.innot.avreclipse.configuration.app.release.709241690=de.innot.avreclipse.toolchain.winavr.app.release.1623861411\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.archiver.winavr.base.883630775\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objcopy.eeprom.winavr.app.release.2005260731\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.avrdude.app.release.140904981\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.cpplinker.app.release.2107215821\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.cppcompiler.app.release.431646544\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.linker.winavr.app.release.255198511\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.size.winavr.app.release.2072640523\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objcopy.flash.winavr.app.release.2045099751\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.assembler.winavr.app.release.349122857\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.compiler.winavr.app.release.197759595\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objdump.winavr.app.release.671963560\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.configuration.app.release.709241690\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/WorkLand.de.innot.avreclipse.project.winavr.elf_2.1.0.1415250750/de.innot.avreclipse.configuration.app.release.1142913889=de.innot.avreclipse.tool.linker.winavr.app.release.837863303\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.avrdude.app.release.1335728166\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.cpplinker.app.release.573630663\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objcopy.eeprom.winavr.app.release.2129890358\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objdump.winavr.app.release.779932874\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.size.winavr.app.release.1165400922\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.objcopy.flash.winavr.app.release.90595447\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.configuration.app.release.1142913889\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.archiver.winavr.base.767754431\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.assembler.winavr.app.release.66784738\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.toolchain.winavr.app.release.849118158\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.compiler.winavr.app.release.1344374716\=rebuildState\\\=false\\r\\n\r\nde.innot.avreclipse.tool.cppcompiler.app.release.937862105\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/fuck.null.1508606756/io.sloeber.core.toolChain.release.1009412484=io.sloeber.tool.sketch.compiler.cpp.1744041945\=rebuildState\\\=false\\r\\n\r\nio.sloeber.core.toolChain.release.1009412484\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\nio.sloeber.tool.combine.1053480294\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.objcopy.eep.804929220\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.compiler.c.73984245\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.size.507713543\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.ar.1857884482\=rebuildState\\\=false\\r\\n\r\nio.sloeber.core.toolChain.release.1108088238\=rebuildState\\\=false\\r\\n\r\nio.sloeber.tool.sketch.compiler.s.1452694153\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=255,255,255
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.core.runtime/content-types/org.eclipse.cdt.core.cxxSource/file-extensions=ino,pde
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.applicationLaunchType=org.eclipse.cdt.dsf.gdb.launch.localCLaunch,debug,;org.eclipse.cdt.cdi.launch.localCLaunch,run,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.attachLaunchType=org.eclipse.cdt.dsf.gdb.launch.attachCLaunch,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.dsf.gdb.launch.coreCLaunch,debug,;
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.epp.logging.aeri.ide/configured=true
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendMode=KEEP
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendModeOn=0
+/instance/org.eclipse.epp.logging.aeri.ide/sendMode=NEVER
+/instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=http\://marketplace.eclipse.org
+/instance/org.eclipse.mylyn.context.core/mylyn.attention.migrated=true
+/instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
+/instance/org.eclipse.mylyn.tasks.ui/migrated.task.repositories.secure.store=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+/instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
+/instance/org.eclipse.rse.core/activeuserprofiles=Mazarei-PC;Team
+/instance/org.eclipse.rse.core/org.eclipse.rse.systemtype.local.systemType.defaultUserId=Mazarei
+/instance/org.eclipse.rse.core/useridperkey=Mazarei-PC.Local\=Mazarei;
+/instance/org.eclipse.rse.ui/org.eclipse.rse.preferences.order.connections=Mazarei-PC.Local
+/instance/org.eclipse.search/org.eclipse.search.defaultPerspective=org.eclipse.search.defaultPerspective.none
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files (x86)\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+/instance/org.eclipse.ui.browser/internalWebBrowserHistory=http\://marketplace.eclipse.org/content/workspace-preferences-transferrer?mpc\=true&mpc_state\=|*|http\://marketplace.eclipse.org/content/eclipse-tools?mpc\=true&mpc_state\=\#group-screenshots|*|http\://marketplace.eclipse.org/content/eclipse-tools?mpc\=true&mpc_state\=|*|
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/TASKS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/platformState=1495008269464
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench/overridepresentation=true
+/instance/org.eclipse.ui/SHOW_TEXT_ON_PERSPECTIVE_BAR=true
+/instance/org.eclipse.ui/showIntro=false
+@de.innot.avreclipse.core=2.4.2
+@org.eclipse.cdt.debug.core=8.1.0.201703062208
+@org.eclipse.cdt.dsf.ui=2.5.0.201703062208
+@org.eclipse.cdt.managedbuilder.core=8.4.0.201703062208
+@org.eclipse.cdt.ui=6.1.0.201703062208
+@org.eclipse.core.resources=3.11.1.v20161107-2032
+@org.eclipse.core.runtime=3.12.0.v20160606-1342
+@org.eclipse.debug.core=3.10.100.v20160419-1720
+@org.eclipse.debug.ui=3.11.202.v20161114-0338
+@org.eclipse.epp.logging.aeri.ide=2.0.4.v20170307-1435
+@org.eclipse.epp.mpc.ui=1.5.4.v20170222-1941
+@org.eclipse.oomph.workingsets=1.7.0.v20170104-1401
+@org.eclipse.search=3.11.1.v20161113-1700
+@org.eclipse.team.ui=3.8.0.v20160518-1906
+@org.eclipse.ui=3.108.1.v20160929-1045
+@org.eclipse.ui.browser=3.5.2.v20161114-0210
+@org.eclipse.ui.editors=3.10.1.v20161106-1856
+@org.eclipse.ui.ide=3.12.3.v20170119-0935
+@org.eclipse.ui.workbench=3.108.3.v20170216-1539
+file_export_version=3.0

@@ -1,0 +1,138 @@
+10:34:45 **** Clean-only build of configuration Release for project WorkLand ****
+make clean 
+rm -rf  WorkLand.hex  ./Src/Main.o  WorkLand.eep  sizedummy  WorkLand.lss  ./Src/Main.d  WorkLand.elf
+ 
+10:34:47 **** Build of configuration Release for project WorkLand ****
+make all 
+Building file: ../Src/Main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -Os -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"Src/Main.d" -MT"Src/Main.o" -c -o "Src/Main.o" "../Src/Main.c"
+Finished building: ../Src/Main.c
+ 
+Building target: WorkLand.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,WorkLand.map -mmcu=atmega16 -o "WorkLand.elf"  ./Src/Main.o   
+Finished building target: WorkLand.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S WorkLand.elf  >"WorkLand.lss"
+Finished building: WorkLand.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex WorkLand.elf  "WorkLand.hex"
+Finished building: WorkLand.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex WorkLand.elf  "WorkLand.eep"
+Finished building: WorkLand.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 WorkLand.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:     124 bytes (0.8% Full)
+(.text + .data + .bootloader)
+
+Data:          0 bytes (0.0% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+10:42:01 **** Build of configuration Debug for project Fuck ****
+make all 
+Building file: ../Src/Main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"Src/Main.d" -MT"Src/Main.o" -c -o "Src/Main.o" "../Src/Main.c"
+Finished building: ../Src/Main.c
+ 
+Building target: Fuck.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Fuck.map -mmcu=atmega16 -o "Fuck.elf"  ./Src/Main.o   
+Finished building target: Fuck.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Fuck.elf  >"Fuck.lss"
+Finished building: Fuck.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 Fuck.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:     130 bytes (0.8% Full)
+(.text + .data + .bootloader)
+
+Data:          0 bytes (0.0% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+10:43:53 **** Incremental Build of configuration Debug for project Fuck ****
+make all 
+Building file: ../Src/Main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"Src/Main.d" -MT"Src/Main.o" -c -o "Src/Main.o" "../Src/Main.c"
+Finished building: ../Src/Main.c
+ 
+Building target: Fuck.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Fuck.map -mmcu=atmega16 -o "Fuck.elf"  ./Src/Main.o   
+Finished building target: Fuck.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Fuck.elf  >"Fuck.lss"
+Finished building: Fuck.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 Fuck.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:     138 bytes (0.8% Full)
+(.text + .data + .bootloader)
+
+Data:          0 bytes (0.0% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+10:46:53 **** Incremental Build of configuration Debug for project Fuck ****
+make all 
+Building file: ../Src/Main.c
+Invoking: AVR Compiler
+avr-gcc -I"D:\sisoog\Sisoog Editor\Sisoog_ide\avr8-gnu-toolchain\avr\include" -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"Src/Main.d" -MT"Src/Main.o" -c -o "Src/Main.o" "../Src/Main.c"
+In file included from ../Src/Main.c:8:
+D:\sisoog\Sisoog Editor\Sisoog_ide\avr8-gnu-toolchain\avr\include/util/delay.h:112:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../Src/Main.c
+ 
+Building target: Fuck.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Fuck.map -mmcu=atmega16 -o "Fuck.elf"  ./Src/Main.o   
+Finished building target: Fuck.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Fuck.elf  >"Fuck.lss"
+Finished building: Fuck.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 Fuck.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:     138 bytes (0.8% Full)
+(.text + .data + .bootloader)
+
+Data:          0 bytes (0.0% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 

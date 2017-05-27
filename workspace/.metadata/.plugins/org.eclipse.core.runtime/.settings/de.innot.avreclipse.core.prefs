@@ -1,0 +1,12 @@
+avrdudepropertypage/previewexpanded=false
+avrdudepropertypage/weight_preview_collapsed=50
+avrdudepropertypage/weight_preview_expanded=20
+avrdudepropertypage/weight_top_collapsed=950
+avrdudepropertypage/weight_top_expanded=80
+avrpaths//systempath/AVRDUDE=avr8-gnu-toolchain\\AVRDude
+avrpaths//systempath/AVRGCC=avr8-gnu-toolchain\\bin
+avrpaths//systempath/AVRINCLUDE=avr8-gnu-toolchain\\avr\\include
+avrpaths//systempath/MAKE=avr8-gnu-toolchain\\utils\\bin
+avrpaths//systempath/PDFPATH=
+avrpaths/NoScanAtStartup=true
+eclipse.preferences.version=1

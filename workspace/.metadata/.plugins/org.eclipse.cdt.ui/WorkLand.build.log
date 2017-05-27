@@ -1,0 +1,42 @@
+10:34:47 **** Build of configuration Release for project WorkLand ****
+make all 
+Building file: ../Src/Main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -Os -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"Src/Main.d" -MT"Src/Main.o" -c -o "Src/Main.o" "../Src/Main.c"
+Finished building: ../Src/Main.c
+ 
+Building target: WorkLand.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,WorkLand.map -mmcu=atmega16 -o "WorkLand.elf"  ./Src/Main.o   
+Finished building target: WorkLand.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S WorkLand.elf  >"WorkLand.lss"
+Finished building: WorkLand.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex WorkLand.elf  "WorkLand.hex"
+Finished building: WorkLand.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex WorkLand.elf  "WorkLand.eep"
+Finished building: WorkLand.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 WorkLand.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:     124 bytes (0.8% Full)
+(.text + .data + .bootloader)
+
+Data:          0 bytes (0.0% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+10:34:47 Build Finished (took 275ms)
+

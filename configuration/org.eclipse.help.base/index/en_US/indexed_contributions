@@ -1,0 +1,20 @@
+#This is a generated file; do not edit.
+#Wed May 17 13:26:19 IRDT 2017
+org.eclipse.help.base=org.eclipse.help.base\n4.1.2.v20170301-0400
+org.eclipse.cdt.debug.application.doc=org.eclipse.cdt.debug.application.doc\n1.1.0.201703062208
+org.eclipse.epp.mpc.ui=org.eclipse.epp.mpc.ui\n1.5.4.v20170222-1941
+org.eclipse.egit.doc=org.eclipse.egit.doc\n4.6.1.201703071140-r
+org.eclipse.cdt=org.eclipse.cdt\n9.2.1.201703062208
+org.eclipse.oomph.setup.doc=org.eclipse.oomph.setup.doc\n1.7.0.v20170104-1401
+org.eclipse.tracecompass.doc.dev=org.eclipse.tracecompass.doc.dev\n2.3.0.201703072250
+org.eclipse.ui.cheatsheets=org.eclipse.ui.cheatsheets\n3.5.0.v20160504-0839
+org.eclipse.ui.intro=org.eclipse.ui.intro\n3.5.2.v20161116-1147
+org.eclipse.help=org.eclipse.help\n3.7.0.v20160602-1307
+org.eclipse.cdt.doc.user=org.eclipse.cdt.doc.user\n5.4.0.201703062208
+org.eclipse.tracecompass.gdbtrace.doc.user=org.eclipse.tracecompass.gdbtrace.doc.user\n2.3.0.201703072250
+org.eclipse.epp.mpc.help.ui=org.eclipse.epp.mpc.help.ui\n1.5.4.v20170201-1845
+org.eclipse.platform=org.eclipse.platform\n4.6.3.v20170301-0400
+org.eclipse.oomph.p2.doc=org.eclipse.oomph.p2.doc\n1.7.0.v20170104-1401
+de.innot.avreclipse.doc=de.innot.avreclipse.doc\n2.4.2
+org.eclipse.platform.doc.user=org.eclipse.platform.doc.user\n4.6.1.v20160727-2009
+org.eclipse.ui.intro.universal=org.eclipse.ui.intro.universal\n3.3.1.v20160829-1558

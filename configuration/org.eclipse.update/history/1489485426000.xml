@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1489512427945" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.linuxtools.gcov" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.gcov_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.tracecompass.tmf" version="2.3.0.201703072250" url="features/org.eclipse.tracecompass.tmf_2.3.0.201703072250/">
+		</feature>
+		<feature id="org.eclipse.epp.mpc" version="1.5.4.v20170222-1941" url="features/org.eclipse.epp.mpc_1.5.4.v20170222-1941/" plugin-identifier="org.eclipse.epp.mpc.ui">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.repositories" version="1.13.0.v20160630-1702" url="features/org.eclipse.mylyn.commons.repositories_1.13.0.v20160630-1702/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.mylyn_feature" version="3.21.0.v20160914-0252" url="features/org.eclipse.mylyn_feature_3.21.0.v20160914-0252/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.tracecompass.gdbtrace" version="2.3.0.201703072250" url="features/org.eclipse.tracecompass.gdbtrace_2.3.0.201703072250/">
+		</feature>
+		<feature id="org.eclipse.mylyn.ide_feature" version="3.21.0.v20160912-1820" url="features/org.eclipse.mylyn.ide_feature_3.21.0.v20160912-1820/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.12.0.v20160420-0247" url="features/org.eclipse.emf.ecore_2.12.0.v20160420-0247/">
+		</feature>
+		<feature id="org.eclipse.jgit" version="4.6.1.201703071140-r" url="features/org.eclipse.jgit_4.6.1.201703071140-r/">
+		</feature>
+		<feature id="org.eclipse.oomph.p2" version="1.7.0.v20170228-1751" url="features/org.eclipse.oomph.p2_1.7.0.v20170228-1751/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.notifications" version="1.13.0.v20160721-2347" url="features/org.eclipse.mylyn.commons.notifications_1.13.0.v20160721-2347/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.rse.ssh" version="3.7.0.201610260947" url="features/org.eclipse.rse.ssh_3.7.0.201610260947/" plugin-identifier="org.eclipse.rse.services.ssh">
+		</feature>
+		<feature id="org.eclipse.tracecompass.lttng2.ust" version="2.3.0.201703072250" url="features/org.eclipse.tracecompass.lttng2.ust_2.3.0.201703072250/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.rcp.feature" version="1.2.203.v20170131-1444" url="features/org.eclipse.equinox.p2.rcp.feature_1.2.203.v20170131-1444/">
+		</feature>
+		<feature id="org.eclipse.epp.logging.aeri.feature" version="2.0.4.v20170307-1435" url="features/org.eclipse.epp.logging.aeri.feature_2.0.4.v20170307-1435/">
+		</feature>
+		<feature id="org.eclipse.mylyn.wikitext_feature" version="2.10.1.v20161129-1925" url="features/org.eclipse.mylyn.wikitext_feature_2.10.1.v20161129-1925/" plugin-identifier="org.eclipse.mylyn.wikitext.core">
+		</feature>
+		<feature id="org.eclipse.cdt.debug.ui.memory" version="9.2.1.201703062208" url="features/org.eclipse.cdt.debug.ui.memory_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.user.ui" version="2.2.203.v20170131-1444" url="features/org.eclipse.equinox.p2.user.ui_2.2.203.v20170131-1444/">
+		</feature>
+		<feature id="org.eclipse.mylyn.bugzilla_feature" version="3.21.0.v20160909-1813" url="features/org.eclipse.mylyn.bugzilla_feature_3.21.0.v20160909-1813/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature" version="3.13.2.v20160823-2221" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.13.2.v20160823-2221/">
+		</feature>
+		<feature id="org.eclipse.rse.telnet" version="3.7.0.201610260947" url="features/org.eclipse.rse.telnet_3.7.0.201610260947/" plugin-identifier="org.eclipse.rse.services.telnet">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.3.203.v20170131-1444" url="features/org.eclipse.equinox.p2.core.feature_1.3.203.v20170131-1444/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.discovery.feature" version="1.0.401.v20160901-1335" url="features/org.eclipse.equinox.p2.discovery.feature_1.0.401.v20160901-1335/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.debug" version="9.2.1.201703062208" url="features/org.eclipse.cdt.gnu.debug_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.0.v20160823-2221" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.0.v20160823-2221/">
+		</feature>
+		<feature id="org.eclipse.linuxtools.cdt.libhover.feature" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.cdt.libhover.feature_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.linuxtools.gprof.feature" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.gprof.feature_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.cdt.native" version="9.2.1.201703062208" url="features/org.eclipse.cdt.native_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.cdt.launch.remote" version="9.2.1.201703062208" url="features/org.eclipse.cdt.launch.remote_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.mylyn.tasks.ide" version="3.21.0.v20160929-1805" url="features/org.eclipse.mylyn.tasks.ide_3.21.0.v20160929-1805/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.linuxtools.changelog.c" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.changelog.c_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.tracecompass.lttng2.kernel" version="2.3.0.201703072250" url="features/org.eclipse.tracecompass.lttng2.kernel_2.3.0.201703072250/">
+		</feature>
+		<feature id="org.eclipse.rse.ftp" version="3.7.1.201610260947" url="features/org.eclipse.rse.ftp_3.7.1.201610260947/" plugin-identifier="org.eclipse.rse.services.files.ftp">
+		</feature>
+		<feature id="org.eclipse.linuxtools.valgrind" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.valgrind_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.12.0.v20160420-0247" url="features/org.eclipse.emf.common_2.12.0.v20160420-0247/">
+		</feature>
+		<feature id="org.eclipse.cdt" version="9.2.1.201703062208" url="features/org.eclipse.cdt_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.mylyn.team_feature" version="3.21.0.v20160701-1337" url="features/org.eclipse.mylyn.team_feature_3.21.0.v20160701-1337/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.tracecompass.lttng2.control" version="2.3.0.201703072250" url="features/org.eclipse.tracecompass.lttng2.control_2.3.0.201703072250/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.build" version="9.2.1.201703062208" url="features/org.eclipse.cdt.gnu.build_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.oomph.setup.core" version="1.7.0.v20170301-0747" url="features/org.eclipse.oomph.setup.core_1.7.0.v20170301-0747/">
+		</feature>
+		<feature id="org.eclipse.cdt.mylyn" version="5.17.0.v20160701-1337" url="features/org.eclipse.cdt.mylyn_5.17.0.v20160701-1337/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.mylyn.discovery" version="3.21.0.v20160729-1739" url="features/org.eclipse.mylyn.discovery_3.21.0.v20160729-1739/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="1.5.3.v20170228-0512" url="features/org.eclipse.e4.rcp_1.5.3.v20170228-0512/">
+		</feature>
+		<feature id="org.eclipse.tracecompass.tmf.ctf" version="2.3.0.201703072250" url="features/org.eclipse.tracecompass.tmf.ctf_2.3.0.201703072250/">
+		</feature>
+		<feature id="org.eclipse.rse.dstore" version="3.7.0.201610260947" url="features/org.eclipse.rse.dstore_3.7.0.201610260947/" plugin-identifier="org.eclipse.rse.services.dstore">
+		</feature>
+		<feature id="org.eclipse.oomph.setup" version="1.7.0.v20170305-1123" url="features/org.eclipse.oomph.setup_1.7.0.v20170305-1123/">
+		</feature>
+		<feature id="org.eclipse.epp.package.common.feature" version="4.6.3.20170314-1500" url="features/org.eclipse.epp.package.common.feature_4.6.3.20170314-1500/">
+		</feature>
+		<feature id="org.eclipse.epp.package.cpp.feature" version="4.6.3.20170314-1500" url="features/org.eclipse.epp.package.cpp.feature_4.6.3.20170314-1500/" plugin-identifier="org.eclipse.epp.package.cpp">
+		</feature>
+		<feature id="org.eclipse.platform" version="4.6.3.v20170301-0400" url="features/org.eclipse.platform_4.6.3.v20170301-0400/">
+		</feature>
+		<feature id="org.eclipse.cdt.gdb" version="9.2.1.201703062208" url="features/org.eclipse.cdt.gdb_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.identity" version="1.13.0.v20160630-1702" url="features/org.eclipse.mylyn.commons.identity_1.13.0.v20160630-1702/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.2.203.v20170131-1444" url="features/org.eclipse.equinox.p2.extras.feature_1.2.203.v20170131-1444/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.6.3.v20170301-0400" url="features/org.eclipse.rcp_4.6.3.v20170301-0400/">
+		</feature>
+		<feature id="org.eclipse.linuxtools.rpm" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.rpm_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.cdt.debug.standalone" version="9.2.1.201703062208" url="features/org.eclipse.cdt.debug.standalone_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.cdt.platform" version="9.2.1.201703062208" url="features/org.eclipse.cdt.platform_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.mylyn.monitor" version="3.21.0.v20160630-1702" url="features/org.eclipse.mylyn.monitor_3.21.0.v20160630-1702/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.remote" version="2.1.1.201612062149" url="features/org.eclipse.remote_2.1.1.201612062149/">
+		</feature>
+		<feature id="org.eclipse.mylyn.context_feature" version="3.21.0.v20160815-2336" url="features/org.eclipse.mylyn.context_feature_3.21.0.v20160815-2336/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.linuxtools.cdt.libhover.devhelp.feature" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.cdt.libhover.devhelp.feature_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.rse" version="3.7.2.201610260947" url="features/org.eclipse.rse_3.7.2.201610260947/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons" version="3.21.0.v20160707-1856" url="features/org.eclipse.mylyn.commons_3.21.0.v20160707-1856/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.cdt.autotools" version="9.2.1.201703062208" url="features/org.eclipse.cdt.autotools_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.linuxtools.profiling" version="5.3.0.201703072040" url="features/org.eclipse.linuxtools.profiling_5.3.0.201703072040/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" version="1.1.0.v20160823-2221" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.0.v20160823-2221/">
+		</feature>
+		<feature id="org.eclipse.cdt.build.crossgcc" version="9.2.1.201703062208" url="features/org.eclipse.cdt.build.crossgcc_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.help" version="2.2.2.v20170301-0400" url="features/org.eclipse.help_2.2.2.v20170301-0400/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="org.eclipse.rse.local" version="3.7.0.201610260947" url="features/org.eclipse.rse.local_3.7.0.201610260947/" plugin-identifier="org.eclipse.rse.services.local">
+		</feature>
+		<feature id="org.eclipse.egit" version="4.6.1.201703071140-r" url="features/org.eclipse.egit_4.6.1.201703071140-r/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.3.0.v20160823-2221" url="features/org.eclipse.ecf.core.feature_1.3.0.v20160823-2221/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.0.v20160823-2221" url="features/org.eclipse.ecf.core.ssl.feature_1.1.0.v20160823-2221/">
+		</feature>
+		<feature id="org.eclipse.tracecompass.ctf" version="2.3.0.201703072250" url="features/org.eclipse.tracecompass.ctf_2.3.0.201703072250/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.dsf" version="9.2.1.201703062208" url="features/org.eclipse.cdt.gnu.dsf_9.2.1.201703062208/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.13.2.v20160823-2221" url="features/org.eclipse.ecf.filetransfer.feature_3.13.2.v20160823-2221/">
+		</feature>
+		<feature id="org.eclipse.rse.core" version="3.7.2.201610260947" url="features/org.eclipse.rse.core_3.7.2.201610260947/">
+		</feature>
+	</site>
+</config>
